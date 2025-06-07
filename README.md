@@ -14,7 +14,7 @@ A beautiful and interactive calculator built with Streamlit that performs basic 
 
 ## 🚀 Live Demo
 
-**[Try the Calculator Here!](https://your-app-url.streamlit.app)** *
+**[Try the Calculator Here!](https://simple-calculator-ys4pfk2tkaufmcapf9qbwm.streamlit.app/)** *
 
 ## 🛠️ Installation & Setup
 
